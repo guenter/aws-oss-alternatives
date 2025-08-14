@@ -27,15 +27,15 @@ MSK                     | Data streaming            | [Apache Kafka](https://kaf
 EC2                     | Virtual machines
 EC2 EBS                 | Block storage for EC2     | [OpenEBS](https://www.openebs.io/), [Portworx](https://github.com/portworx/px-dev)
 Lightsail               | Virtual machines
-ECR                     | Container registry        | [Docker Registry](https://github.com/docker/distribution), [Quay](https://quay.io/), [Harbor](https://github.com/goharbor/harbor)
+ECR                     | Container registry        | [Docker Registry](https://github.com/docker/distribution), [Quay](https://quay.io/), [Harbor](https://github.com/goharbor/harbor), [Harness](https://github.com/harness/harness)
 ECS                     | Container orchestration   | [Kubernetes](https://kubernetes.io/), [Marathon](https://mesosphere.github.io/marathon/)
 EKS                     | Container orchestration   | [Kubernetes](https://kubernetes.io/)
 Lambda                  | Serverless                | [Knative](https://knative.dev/), [OpenFaaS](https://www.openfaas.com/), [Fn](https://fnproject.io/)
 Batch                   | Job queue                 | [Apache Airflow](https://airflow.apache.org/)
 CloudFormation          | Infrastructure as Code    | [OpenTofu](https://github.com/opentofu/opentofu), [Pulumi](https://github.com/pulumi/pulumi), [Crossplane](https://github.com/crossplane/crossplane)
-CodeBuild               | Continuous Integration    | [Jenkins](https://github.com/jenkinsci/jenkins), [Woodpecker](https://github.com/woodpecker-ci/woodpecker),
-CodePipeline            | Continuous Delivery       | [ArgoCD](https://github.com/argoproj/argo-cd), [Woodpecker](https://github.com/woodpecker-ci/woodpecker), [Spinnaker](https://github.com/spinnaker/spinnaker)
-CodeCommit              | Git Repository            | [Forgejo](https://codeberg.org/forgejo/forgejo)
+CodeBuild               | Continuous Integration    | [Jenkins](https://github.com/jenkinsci/jenkins), [Woodpecker](https://github.com/woodpecker-ci/woodpecker), [Harness](https://github.com/harness/harness)
+CodePipeline            | Continuous Delivery       | [ArgoCD](https://github.com/argoproj/argo-cd), [Woodpecker](https://github.com/woodpecker-ci/woodpecker), [Spinnaker](https://github.com/spinnaker/spinnaker), [Harness](https://github.com/harness/harness)
+CodeCommit              | Git Repository            | [Forgejo](https://codeberg.org/forgejo/forgejo), [Harness](https://github.com/harness/harness)
 CloudWatch              | Observability             | **Monitoring:** [Prometheus](https://github.com/prometheus/prometheus) + [Grafana](https://github.com/grafana/grafana), **Logging:** [Opensearch](https://github.com/opensearch-project/OpenSearch) + [Vector](https://github.com/vectordotdev/vector) + [Opensearch Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards), **Incident Management:** [GoAlert](https://github.com/target/goalert)
 Secrets Manager         | Secret Management         | [OpenBao](https://github.com/openbao/openbao)
 App Mesh                | Service Mesh              | [Istio](https://github.com/istio/istio), [Kuma](https://github.com/kumahq/kuma), [Linkerd](https://github.com/linkerd/linkerd2)
