@@ -32,8 +32,6 @@ ECS                     | Container orchestration   | [Kubernetes](https://kuber
 EKS                     | Container orchestration   | [Kubernetes](https://kubernetes.io/)
 Lambda                  | Serverless                | [Knative](https://knative.dev/), [OpenFaaS](https://www.openfaas.com/), [Fn](https://fnproject.io/)
 Batch                   | Job queue                 | [Apache Airflow](https://airflow.apache.org/)
-Elastic Beanstalk       | App deployment
-Serverless App. Repo.   | Serverless repository
 CloudFormation          | Infrastructure as Code    | [OpenTofu](https://github.com/opentofu/opentofu), [Pulumi](https://github.com/pulumi/pulumi), [Crossplane](https://github.com/crossplane/crossplane)
 CodeBuild               | Continuous Integration    | [Jenkins](https://github.com/jenkinsci/jenkins), [Woodpecker](https://github.com/woodpecker-ci/woodpecker),
 CodePipeline            | Continuous Delivery       | [ArgoCD](https://github.com/argoproj/argo-cd), [Woodpecker](https://github.com/woodpecker-ci/woodpecker), [Spinnaker](https://github.com/spinnaker/spinnaker)
@@ -49,3 +47,6 @@ MQ                      | Message broker            | [RabbitMQ](https://github.
 SQS                     | Message queue (pull)      | [Apache Kafka](https://kafka.apache.org/), [AutoMQ](https://github.com/AutoMQ/automq)
 SNS                     | Message queue (push)      | [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)
 Aurora DSQL             | Distributed SQL DB        | [YugabyteDB](https://github.com/yugabyte/yugabyte-db), [TiDB](https://github.com/pingcap/tidb)
+AWS Backup              | Backup for AWS services   | N/A
+Serverless App. Repo.   | Serverless repository     | N/A
+Elastic Beanstalk       | App deployment            | N/A
