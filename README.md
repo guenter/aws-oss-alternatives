@@ -23,7 +23,7 @@ Kinesis                 | Data streaming            | [Apache Kafka](https://kaf
 QuickSight              | Business analytics        | [Apache Superset](https://github.com/apache/superset), [Metabase](https://github.com/metabase/metabase)
 AWS Glue                | ETL                       | [Apache Airflow](https://airflow.apache.org/), [Apache NiFi](https://github.com/apache/nifi)
 AWS Lake Formation      | Data lake                 | [HDFS](http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html)
-MSK                     | Data streaming            | [Apache Kafka](https://kafka.apache.org/)
+MSK                     | Data streaming            | [Apache Kafka](https://kafka.apache.org/), [AutoMQ](https://github.com/AutoMQ/automq)
 EC2                     | Virtual machines
 EC2 EBS                 | Block storage for EC2     | [OpenEBS](https://www.openebs.io/), [Portworx](https://github.com/portworx/px-dev)
 Lightsail               | Virtual machines
