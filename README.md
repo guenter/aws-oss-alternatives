@@ -1,6 +1,6 @@
 # Open Source Alternatives to AWS Services
 
-Groups covered: Storage, Database, Analytics, Compute
+Groups covered: Storage, Database, Analytics, Compute, DevOps
 
 AWS Service             | What it does              | OSS Alternatives
 ------------------------|---------------------------|-----------------
