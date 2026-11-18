@@ -22,6 +22,7 @@ Opensearch Service      | Opensearch                | [Opensearch](https://githu
 Kinesis                 | Data streaming            | [Apache Kafka](https://kafka.apache.org/), [AutoMQ](https://github.com/AutoMQ/automq)
 QuickSight              | Business analytics        | [Apache Superset](https://github.com/apache/superset), [Metabase](https://github.com/metabase/metabase)
 AWS Glue                | ETL                       | [Apache Airflow](https://airflow.apache.org/), [Apache NiFi](https://github.com/apache/nifi)
+AWS DMS                 | Database migration / CDC  | [Debezium](https://github.com/debezium/debezium), [OLake](https://github.com/datazip-inc/olake-go)
 AWS Lake Formation      | Data lake                 | [HDFS](http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html)
 MSK                     | Data streaming            | [Apache Kafka](https://kafka.apache.org/), [AutoMQ](https://github.com/AutoMQ/automq)
 EC2                     | Virtual machines
